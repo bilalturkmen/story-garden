@@ -1,0 +1,38 @@
+export const translations = {
+  en: {
+    siteTitle: "StoryGarden",
+    subTitle: "A collection of the best stories",
+    storyList: "Story Collection",
+    backToStories: "Back to Stories",
+    readStory: "Read Story",
+    author: "Author",
+    selectLanguage: "Select Language",
+    english: "English",
+    spanish: "Español",
+    footerText: "Made with love 💗 for young readers around the world.",
+    storyListSubtitle:
+      "Discover timeless tales that spark imagination and teach valuable lessons",
+    notFoundMessage: "Oops! This page doesn't exist.",
+    returnHome: "Return to Home",
+    loadingStories: "Loading stories...",
+    readingStories: "Reading stories...",
+  },
+  es: {
+    siteTitle: "jardín de cuentos",
+    subTitle: "una colección de los mejores cuentos",
+    storyList: "Colección de Cuentos",
+    backToStories: "Volver a los Cuentos",
+    readStory: "Leer Cuento",
+    author: "Autor",
+    selectLanguage: "Seleccionar Idioma",
+    english: "English",
+    spanish: "Español",
+    footerText: "Hecho con 💗 para jóvenes lectores de todo el mundo.",
+    storyListSubtitle:
+      "Descubre cuentos atemporales que despiertan la imaginación y enseñan lecciones valiosas",
+    notFoundMessage: "¡Uy! Esta página no existe.",
+    returnHome: "Volver al Inicio",
+    loadingStories: "Cargando historias...",
+    readingStories: "Leyendo cuentos...",
+  },
+};
