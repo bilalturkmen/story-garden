@@ -15,7 +15,6 @@ import {
   CircleUserRound,
   ArrowLeft,
 } from "lucide-react";
-import { supabase } from "./services/supabase";
 
 const LangContext = createContext(undefined);
 
@@ -135,13 +134,17 @@ function StoryList() {
   useEffect(() => {
     const fetchStories = async () => {
       setLoading(true);
-      const { data, error } = await supabase
-        .from("stories")
-        .select("*")
-        .eq("language", language)
-        .order("created_at", { ascending: false });
-
-      if (!error) setStories(data);
+      try {
+        const res = await fetch("/posts.json");
+        const data = await res.json();
+        const filtered = data.filter((story) => story.language === language);
+        const ordered = filtered.sort(
+          (a, b) => new Date(b.created_at) - new Date(a.created_at),
+        );
+        setStories(ordered);
+      } catch (err) {
+        console.error("JSON fetch error:", err);
+      }
       setLoading(false);
     };
     fetchStories();
@@ -173,19 +176,16 @@ function StoryDetail() {
   useEffect(() => {
     const fetchStory = async () => {
       setLoading(true);
-
-      const { data, error } = await supabase
-        .from("stories")
-        .select("*")
-        .eq("slug", slug)
-        .eq("language", language)
-        .maybeSingle();
-
-      if (error) {
-        console.error("Supabase Error Details:", error);
+      try {
+        const res = await fetch("/posts.json");
+        const data = await res.json();
+        const found = data.find(
+          (s) => s.slug === slug && s.language === language,
+        );
+        setStory(found || null);
+      } catch (err) {
+        console.error("JSON fetch error:", err);
       }
-
-      setStory(data);
       setLoading(false);
     };
     fetchStory();

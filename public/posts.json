@@ -1,0 +1,102 @@
+[
+  {
+    "id": 5,
+    "slug": "three-little-pigs",
+    "language": "en",
+    "title": "The Three Little Pigs",
+    "author": "Traditional",
+    "content": "\r\nOnce upon a time, there were three little pigs who left home to seek their fortune. The first little pig met a man carrying a bundle of straw and said, \"Please, sir, give me some straw to build my house.\" The man gave him the straw, and the little pig built his house.\r\n\r\nAlong came a big bad wolf who knocked on the door and said, \"Little pig, little pig, let me come in!\"\r\n\r\n\"Not by the hair on my chinny-chin-chin!\" replied the pig.\r\n\r\n\"Then I'll huff, and I'll puff, and I'll blow your house in!\" The wolf blew the house down and ate the first little pig.\r\n\r\nThe second little pig met a man with a bundle of sticks and built his house of sticks. The wolf came and huffed and puffed and blew that house down too.\r\n\r\nThe third little pig met a man with a load of bricks and built his house of bricks. When the wolf came and huffed and puffed, he could not blow down the brick house.\r\n\r\nThe wolf tried to come down the chimney, but the clever pig had put a pot of boiling water at the bottom. The wolf fell into the pot and ran away, never to bother the little pigs again.\r\n\r\nThe third little pig lived safely in his brick house, and his brothers came to live with him. They learned that hard work and planning ahead keep you safe.\r\n",
+    "created_at": "2026-04-14T20:48:39.141289+00:00",
+    "image_url": "/images/three-little-pigs.jpg"
+  },
+  {
+    "id": 7,
+    "slug": "goldilocks-three-bears",
+    "language": "en",
+    "title": "Goldilocks and the Three Bears",
+    "author": "Robert Southey",
+    "content": "\r\nOnce upon a time, there were three bears who lived in a house in the woods: a great big father bear, a medium-sized mother bear, and a tiny baby bear.\r\n\r\nOne morning, they made porridge for breakfast, but it was too hot to eat. So they decided to take a walk in the woods while it cooled down.\r\n\r\nWhile they were away, a little girl named Goldilocks came upon their house. She knocked on the door, and when no one answered, she went inside.\r\n\r\nGoldilocks saw three bowls of porridge on the table. She tasted the first bowl. \"This porridge is too hot!\" she said. She tasted the second bowl. \"This porridge is too cold!\" Then she tasted the third bowl. \"This porridge is just right!\" And she ate it all up.\r\n\r\nThen Goldilocks saw three chairs. She sat in the first chair. \"This chair is too hard!\" She sat in the second chair. \"This chair is too soft!\" Then she sat in the third chair. \"This chair is just right!\" But the chair broke into pieces.\r\n\r\nGoldilocks was tired, so she went upstairs and found three beds. The first bed was too hard, the second was too soft, but the third was just right, and she fell asleep.\r\n\r\nWhen the three bears returned home, they discovered someone had been in their house. They found Goldilocks sleeping in baby bear's bed. She woke up, saw the three bears, and jumped out the window, running home as fast as she could. She never returned to the bears' house again.\r\n",
+    "created_at": "2026-04-10T20:48:39.141289+00:00",
+    "image_url": "/images/goldilocks-three-bears.jpg"
+  },
+  {
+    "id": 1,
+    "slug": "tortoise-hare",
+    "language": "en",
+    "title": "The Tortoise and the Hare",
+    "author": "Aesop",
+    "content": "\r\nOnce upon a time, there was a speedy hare who bragged about how fast he could run. Tired of hearing him boast, a tortoise challenged him to a race.\r\n\r\nAll the animals in the forest gathered to watch. The hare ran down the road for a while and then paused to rest. He looked back at the slow-moving tortoise and cried out, \"How do you expect to win this race when you are walking along at your slow, slow pace?\"\r\n\r\nThe hare stretched himself out alongside the road and fell asleep, thinking, \"There is plenty of time to relax.\"\r\n\r\nThe tortoise walked and walked, never stopping until he came to the finish line.\r\n\r\nThe animals who were watching cheered so loudly for the tortoise that they woke up the hare. The hare stretched, yawned, and began to run again, but it was too late. The tortoise had already won the race.\r\n\r\nMoral: Slow and steady wins the race.\r\n",
+    "created_at": "2026-04-21T20:48:39.141289+00:00",
+    "image_url": "/images/tortoise-hare.jpg"
+  },
+  {
+    "id": 9,
+    "slug": "jack-beanstalk",
+    "language": "en",
+    "title": "Jack and the Beanstalk",
+    "author": "English Folk Tale",
+    "content": "\r\nOnce upon a time, there was a poor boy named Jack who lived with his mother. They had only one cow, but she stopped giving milk. Jack's mother told him to take the cow to market and sell her.\r\n\r\nOn his way to market, Jack met a strange old man who offered to trade magic beans for the cow. \"These beans will bring you good fortune,\" said the man. Jack made the trade.\r\n\r\nWhen Jack returned home, his mother was furious. \"You foolish boy! You traded our cow for beans?\" She threw the beans out the window.\r\n\r\nOvernight, a giant beanstalk grew up to the clouds. Jack climbed the beanstalk and found himself in a land high above. He discovered a giant's castle and went inside.\r\n\r\nThe giant's wife gave Jack some food, but then she heard her husband coming home. \"Fee-fi-fo-fum! I smell the blood of an Englishman!\" roared the giant.\r\n\r\nJack hid and watched as the giant counted his gold coins, then fell asleep. Jack quietly took some gold and climbed back down the beanstalk.\r\n\r\nJack climbed the beanstalk two more times, stealing a hen that laid golden eggs and a magical harp. But on his final trip, the harp cried out, and the giant chased Jack down the beanstalk.\r\n\r\nJack quickly chopped down the beanstalk with an axe. The giant fell and was never seen again. Jack and his mother lived happily ever after with their newfound wealth.\r\n",
+    "created_at": "2026-04-02T20:48:39.141289+00:00",
+    "image_url": "/images/jack-beanstalk.jpg"
+  },
+  {
+    "id": 3,
+    "slug": "little-red-riding-hood",
+    "language": "en",
+    "title": "Little Red Riding Hood",
+    "author": "Brothers Grimm",
+    "content": "\r\nOnce upon a time, there was a dear little girl who was loved by everyone who looked at her. Her grandmother had given her a little red velvet cloak, and because it suited her so well, she never wore anything else. So she was called Little Red Riding Hood.\r\n\r\nOne day her mother said to her, \"Come, Little Red Riding Hood, here is a piece of cake and a bottle of wine. Take them to your grandmother. She is ill and weak, and they will do her good.\"\r\n\r\nLittle Red Riding Hood set off immediately. On her way through the woods, she met a wolf. But Little Red Riding Hood did not know what a wicked creature he was, so she was not at all afraid of him.\r\n\r\n\"Good day, Little Red Riding Hood,\" said the wolf.\r\n\r\n\"Thank you kindly, wolf,\" she replied.\r\n\r\n\"Where are you going so early, Little Red Riding Hood?\"\r\n\r\n\"To my grandmother's.\"\r\n\r\nThe cunning wolf thought of a plan. He ran ahead to grandmother's house and knocked on the door.\r\n\r\n\"Who is there?\" called the grandmother.\r\n\r\n\"Little Red Riding Hood,\" replied the wolf in a disguised voice.\r\n\r\nWhen Little Red Riding Hood arrived, she noticed something strange about her grandmother. \"Grandmother, what big eyes you have!\"\r\n\r\n\"All the better to see you with, my dear.\"\r\n\r\n\"Grandmother, what big teeth you have!\"\r\n\r\n\"All the better to eat you with!\" And with that, the wolf jumped out of bed.\r\n\r\nJust then, a huntsman passed by and heard the commotion. He rescued Little Red Riding Hood and her grandmother, and they all lived happily ever after.\r\n",
+    "created_at": "2026-04-20T20:48:39.141289+00:00",
+    "image_url": "/images/little-red-riding-hood.jpg"
+  },
+  {
+    "id": 8,
+    "slug": "goldilocks-three-bears",
+    "language": "es",
+    "title": "Ricitos de Oro y los tres osos",
+    "author": "Robert Southey",
+    "content": "\r\nHabía una vez tres osos que vivían en una casa en el bosque: un gran oso papá, una osa mamá de tamaño mediano y un pequeño osito bebé.\r\n\r\nUna mañana, hicieron avena para el desayuno, pero estaba demasiado caliente para comer. Así que decidieron dar un paseo por el bosque mientras se enfriaba.\r\n\r\nMientras estaban fuera, una niñita llamada Ricitos de Oro llegó a su casa. Golpeó la puerta, y cuando nadie respondió, entró.\r\n\r\nRicitos de Oro vio tres tazones de avena en la mesa. Probó el primer tazón. \"¡Esta avena está demasiado caliente!\" dijo. Probó el segundo tazón. \"¡Esta avena está demasiado fría!\" Luego probó el tercer tazón. \"¡Esta avena está perfecta!\" Y se la comió toda.\r\n\r\nLuego Ricitos de Oro vio tres sillas. Se sentó en la primera silla. \"¡Esta silla está muy dura!\" Se sentó en la segunda silla. \"¡Esta silla está muy blanda!\" Luego se sentó en la tercera silla. \"¡Esta silla está perfecta!\" Pero la silla se rompió en pedazos.\r\n\r\nRicitos de Oro estaba cansada, así que subió las escaleras y encontró tres camas. La primera cama estaba muy dura, la segunda muy blanda, pero la tercera estaba perfecta, y se quedó dormida.\r\n\r\nCuando los tres osos regresaron a casa, descubrieron que alguien había estado en su casa. Encontraron a Ricitos de Oro durmiendo en la cama del osito bebé. Se despertó, vio a los tres osos, y saltó por la ventana, corriendo a casa tan rápido como pudo. Nunca regresó a la casa de los osos.\r\n",
+    "created_at": "2026-04-10T20:48:39.141289+00:00",
+    "image_url": "/images/goldilocks-three-bears.jpg"
+  },
+  {
+    "id": 4,
+    "slug": "little-red-riding-hood",
+    "language": "es",
+    "title": "Caperucita Roja",
+    "author": "Hermanos Grimm",
+    "content": "\r\nHabía una vez una querida niñita que era amada por todos los que la veían. Su abuela le había dado una pequeña capa de terciopelo rojo, y como le quedaba tan bien, nunca usaba otra cosa. Así que la llamaban Caperucita Roja.\r\n\r\nUn día su madre le dijo: \"Ven, Caperucita Roja, aquí tienes un pedazo de pastel y una botella de vino. Llévaselos a tu abuela. Está enferma y débil, y le harán bien.\"\r\n\r\nCaperucita Roja partió inmediatamente. En su camino a través del bosque, se encontró con un lobo. Pero Caperucita Roja no sabía qué criatura tan malvada era, así que no le tuvo miedo.\r\n\r\n\"Buenos días, Caperucita Roja,\" dijo el lobo.\r\n\r\n\"Muchas gracias, lobo,\" respondió ella.\r\n\r\n\"¿A dónde vas tan temprano, Caperucita Roja?\"\r\n\r\n\"A casa de mi abuela.\"\r\n\r\nEl astuto lobo pensó en un plan. Corrió adelante a la casa de la abuela y golpeó la puerta.\r\n\r\n\"¿Quién está ahí?\" gritó la abuela.\r\n\r\n\"Caperucita Roja,\" respondió el lobo con voz disfrazada.\r\n\r\nCuando Caperucita Roja llegó, notó algo extraño en su abuela. \"¡Abuela, qué ojos tan grandes tienes!\"\r\n\r\n\"Es para verte mejor, querida.\"\r\n\r\n\"¡Abuela, qué dientes tan grandes tienes!\"\r\n\r\n\"¡Es para comerte mejor!\" Y con eso, el lobo saltó de la cama.\r\n\r\nJusto entonces, un cazador pasó por ahí y escuchó la conmoción. Rescató a Caperucita Roja y a su abuela, y todos vivieron felices para siempre.\r\n",
+    "created_at": "2026-04-20T20:48:39.141289+00:00",
+    "image_url": "/images/little-red-riding-hood.jpg"
+  },
+  {
+    "id": 6,
+    "slug": "three-little-pigs",
+    "language": "es",
+    "title": "Los tres cerditos",
+    "author": "Tradicional",
+    "content": "\r\nHabía una vez tres cerditos que dejaron su hogar para buscar fortuna. El primer cerdito se encontró con un hombre que llevaba un manojo de paja y dijo: \"Por favor, señor, déme un poco de paja para construir mi casa.\" El hombre le dio la paja, y el cerdito construyó su casa.\r\n\r\nLlegó un lobo feroz que golpeó la puerta y dijo: \"¡Cerdito, cerdito, déjame entrar!\"\r\n\r\n\"¡No, por los pelos de mi barbilla!\" respondió el cerdo.\r\n\r\n\"¡Entonces soplaré y soplaré y tu casa derribaré!\" El lobo sopló y derribó la casa y se comió al primer cerdito.\r\n\r\nEl segundo cerdito se encontró con un hombre con un manojo de palos y construyó su casa de palos. El lobo vino y sopló y sopló y derribó esa casa también.\r\n\r\nEl tercer cerdito se encontró con un hombre con una carga de ladrillos y construyó su casa de ladrillos. Cuando el lobo vino y sopló y sopló, no pudo derribar la casa de ladrillos.\r\n\r\nEl lobo trató de bajar por la chimenea, pero el cerdito inteligente había puesto una olla de agua hirviendo en el fondo. El lobo cayó en la olla y se escapó corriendo, para nunca más molestar a los cerditos.\r\n\r\nEl tercer cerdito vivió seguro en su casa de ladrillos, y sus hermanos vinieron a vivir con él. Aprendieron que el trabajo duro y planificar con anticipación te mantiene seguro.\r\n",
+    "created_at": "2026-04-14T20:48:39.141289+00:00",
+    "image_url": "/images/three-little-pigs.jpg"
+  },
+  {
+    "id": 10,
+    "slug": "jack-beanstalk",
+    "language": "es",
+    "title": "Jack y las habichuelas mágicas",
+    "author": "Cuento Popular Inglés",
+    "content": "\r\nHabía una vez un muchacho pobre llamado Juan que vivía con su madre. Solo tenían una vaca, pero dejó de dar leche. La madre de Juan le dijo que llevara la vaca al mercado y la vendiera.\r\n\r\nEn su camino al mercado, Juan se encontró con un anciano extraño que se ofreció a cambiar frijoles mágicos por la vaca. \"Estos frijoles te traerán buena fortuna,\" dijo el hombre. Juan hizo el intercambio.\r\n\r\nCuando Juan regresó a casa, su madre estaba furiosa. \"¡Muchacho tonto! ¿Cambiaste nuestra vaca por frijoles?\" Tiró los frijoles por la ventana.\r\n\r\nDurante la noche, una planta gigante de frijoles creció hasta las nubes. Juan trepó por la planta y se encontró en una tierra muy arriba. Descubrió el castillo de un gigante y entró.\r\n\r\nLa esposa del gigante le dio algo de comida a Juan, pero luego escuchó que su esposo venía a casa. \"¡Fee-fi-fo-fum! ¡Huelo la sangre de un inglés!\" rugió el gigante.\r\n\r\nJuan se escondió y observó mientras el gigante contaba sus monedas de oro, luego se quedó dormido. Juan silenciosamente tomó algo de oro y bajó por la planta de frijoles.\r\n\r\nJuan trepó la planta dos veces más, robando una gallina que ponía huevos de oro y un arpa mágica. Pero en su último viaje, el arpa gritó, y el gigante persiguió a Juan por la planta.\r\n\r\nJuan rápidamente cortó la planta de frijoles con un hacha. El gigante cayó y nunca más fue visto. Juan y su madre vivieron felices para siempre con su nueva riqueza.\r\n",
+    "created_at": "2026-04-02T20:48:39.141289+00:00",
+    "image_url": "/images/jack-beanstalk.jpg"
+  },
+  {
+    "id": 2,
+    "slug": "tortoise-hare",
+    "language": "es",
+    "title": "La liebre y la tortuga",
+    "author": "Esopo",
+    "content": "\r\nHabía una vez una liebre muy veloz que se jactaba de lo rápido que podía correr. Cansada de escuchar sus alardes, una tortuga la desafió a una carrera.\r\n\r\nTodos los animales del bosque se reunieron para ver. La liebre corrió por el camino un rato y luego se detuvo a descansar. Miró hacia atrás a la tortuga que se movía lentamente y gritó: \"¿Cómo esperas ganar esta carrera cuando caminas a tu paso tan, tan lento?\"\r\n\r\nLa liebre se estiró junto al camino y se quedó dormida, pensando: \"Hay mucho tiempo para relajarse.\"\r\n\r\nLa tortuga caminó y caminó, sin parar nunca hasta llegar a la meta.\r\n\r\nLos animales que estaban mirando vitorearon tan fuerte por la tortuga que despertaron a la liebre. La liebre se estiró, bostezó y comenzó a correr de nuevo, pero era demasiado tarde. La tortuga ya había ganado la carrera.\r\n\r\nMoraleja: Lento y constante gana la carrera.\r\n",
+    "created_at": "2026-04-21T20:48:39.141289+00:00",
+    "image_url": "/images/tortoise-hare.jpg"
+  }
+]
